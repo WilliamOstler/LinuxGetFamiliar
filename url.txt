@@ -1,0 +1,4 @@
+http://10.0.0.6/ctf_deploy/sign/fDw4hjSQ/index.php
+
+
+<hr>The text you have to sign using the GET parameter "sig" with the private key you have been provided is:Thank you for agreeing the payment, the SWIFT code is QBGTDS and the IBAN number is UV 17 002 00122 0000001200527611
